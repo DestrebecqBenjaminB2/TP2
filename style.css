@@ -1,16 +1,20 @@
+
+
 #container
 {
-	margin: 0 30px;
+	margin: auto;
+	margin-top: 25px;
 	background: #E6E6E6;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 2px #000000;
+	box-shadow: 0px 0px 1px #000000;
+	width: 82%;
 }
 
 #header
 {
 	background: #c0c0c0;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 2px #000000;
+	box-shadow: 0px 0px 1px #000000;
 	padding: 15px;
 	
 }
@@ -59,7 +63,7 @@
 	padding: 20px;
 	margin: 20px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 2px #000000;
+	box-shadow: 0px 0px 1px #000000;
 	background-color: #c0c0c0;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
@@ -89,7 +93,7 @@
 	padding: 20px;
 	margin: 20px;
 	-webkit-box-shadow: 0px 0px 6px #000000;
-	box-shadow: 0px 0px 2px #000000;
+	box-shadow: 0px 0px 1px #000000;
 	background-color: #c0c0c0;
 	-webkit-background-clip: padding-box;
 	background-clip: padding-box;
